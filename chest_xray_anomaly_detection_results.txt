@@ -1,0 +1,100 @@
+person10_bacteria_43.jpeg: Score=199.1409, Prediction=Potential Pneumonia
+person11_bacteria_45.jpeg: Score=158.9597, Prediction=Normal
+person12_bacteria_46.jpeg: Score=172.6451, Prediction=Potential Pneumonia
+person12_bacteria_47.jpeg: Score=174.5468, Prediction=Potential Pneumonia
+person12_bacteria_48.jpeg: Score=174.4344, Prediction=Potential Pneumonia
+person13_bacteria_49.jpeg: Score=171.2811, Prediction=Potential Pneumonia
+person13_bacteria_50.jpeg: Score=212.9882, Prediction=Potential Pneumonia
+person14_bacteria_51.jpeg: Score=170.4262, Prediction=Normal
+person15_bacteria_52.jpeg: Score=207.7245, Prediction=Potential Pneumonia
+person16_bacteria_53.jpeg: Score=180.7032, Prediction=Potential Pneumonia
+person16_bacteria_54.jpeg: Score=203.8468, Prediction=Potential Pneumonia
+person16_bacteria_55.jpeg: Score=168.2657, Prediction=Normal
+person17_bacteria_56.jpeg: Score=140.4459, Prediction=Normal
+person18_bacteria_57.jpeg: Score=171.0399, Prediction=Potential Pneumonia
+person19_bacteria_58.jpeg: Score=198.6137, Prediction=Potential Pneumonia
+person19_bacteria_59.jpeg: Score=238.5569, Prediction=Potential Pneumonia
+person19_bacteria_60.jpeg: Score=187.6945, Prediction=Potential Pneumonia
+person19_bacteria_61.jpeg: Score=178.6958, Prediction=Potential Pneumonia
+person19_bacteria_62.jpeg: Score=226.5662, Prediction=Potential Pneumonia
+person19_bacteria_63.jpeg: Score=210.2160, Prediction=Potential Pneumonia
+person1_bacteria_1.jpeg: Score=170.9891, Prediction=Potential Pneumonia
+person1_bacteria_2.jpeg: Score=186.7093, Prediction=Potential Pneumonia
+person20_bacteria_64.jpeg: Score=165.4475, Prediction=Normal
+person20_bacteria_66.jpeg: Score=197.3823, Prediction=Potential Pneumonia
+person20_bacteria_67.jpeg: Score=253.7246, Prediction=Potential Pneumonia
+person20_bacteria_69.jpeg: Score=130.8943, Prediction=Normal
+person20_bacteria_70.jpeg: Score=198.8829, Prediction=Potential Pneumonia
+person21_bacteria_72.jpeg: Score=214.2012, Prediction=Potential Pneumonia
+person21_bacteria_73.jpeg: Score=155.1941, Prediction=Normal
+person22_bacteria_74.jpeg: Score=204.6647, Prediction=Potential Pneumonia
+person22_bacteria_76.jpeg: Score=195.5514, Prediction=Potential Pneumonia
+person22_bacteria_77.jpeg: Score=227.3558, Prediction=Potential Pneumonia
+person23_bacteria_100.jpeg: Score=184.4331, Prediction=Potential Pneumonia
+person23_bacteria_101.jpeg: Score=192.2487, Prediction=Potential Pneumonia
+person23_bacteria_102.jpeg: Score=214.1364, Prediction=Potential Pneumonia
+person23_bacteria_103.jpeg: Score=219.3779, Prediction=Potential Pneumonia
+person23_bacteria_104.jpeg: Score=192.3117, Prediction=Potential Pneumonia
+person23_bacteria_105.jpeg: Score=187.3367, Prediction=Potential Pneumonia
+person23_bacteria_106.jpeg: Score=178.9784, Prediction=Potential Pneumonia
+person23_bacteria_107.jpeg: Score=190.9985, Prediction=Potential Pneumonia
+person23_bacteria_78.jpeg: Score=190.6127, Prediction=Potential Pneumonia
+person23_bacteria_79.jpeg: Score=196.9115, Prediction=Potential Pneumonia
+person23_bacteria_80.jpeg: Score=224.6287, Prediction=Potential Pneumonia
+person23_bacteria_81.jpeg: Score=212.6652, Prediction=Potential Pneumonia
+person23_bacteria_82.jpeg: Score=220.0764, Prediction=Potential Pneumonia
+person23_bacteria_83.jpeg: Score=161.5889, Prediction=Normal
+person23_bacteria_84.jpeg: Score=213.3309, Prediction=Potential Pneumonia
+person23_bacteria_85.jpeg: Score=183.7765, Prediction=Potential Pneumonia
+person23_bacteria_86.jpeg: Score=199.2494, Prediction=Potential Pneumonia
+person23_bacteria_87.jpeg: Score=207.7260, Prediction=Potential Pneumonia
+person23_bacteria_88.jpeg: Score=171.1678, Prediction=Potential Pneumonia
+person23_bacteria_89.jpeg: Score=232.9595, Prediction=Potential Pneumonia
+person23_bacteria_90.jpeg: Score=182.9037, Prediction=Potential Pneumonia
+person23_bacteria_91.jpeg: Score=193.6613, Prediction=Potential Pneumonia
+person23_bacteria_92.jpeg: Score=219.5609, Prediction=Potential Pneumonia
+person23_bacteria_93.jpeg: Score=186.2478, Prediction=Potential Pneumonia
+person23_bacteria_94.jpeg: Score=185.7978, Prediction=Potential Pneumonia
+person23_bacteria_95.jpeg: Score=183.1937, Prediction=Potential Pneumonia
+person23_bacteria_96.jpeg: Score=198.5192, Prediction=Potential Pneumonia
+person23_bacteria_97.jpeg: Score=171.9497, Prediction=Potential Pneumonia
+person23_bacteria_98.jpeg: Score=203.6991, Prediction=Potential Pneumonia
+person23_bacteria_99.jpeg: Score=187.2534, Prediction=Potential Pneumonia
+person24_bacteria_108.jpeg: Score=194.1127, Prediction=Potential Pneumonia
+person24_bacteria_109.jpeg: Score=201.5249, Prediction=Potential Pneumonia
+person24_bacteria_110.jpeg: Score=197.9916, Prediction=Potential Pneumonia
+person24_bacteria_111.jpeg: Score=159.4825, Prediction=Normal
+person24_bacteria_112.jpeg: Score=178.9000, Prediction=Potential Pneumonia
+person25_bacteria_113.jpeg: Score=197.7157, Prediction=Potential Pneumonia
+person25_bacteria_114.jpeg: Score=193.6097, Prediction=Potential Pneumonia
+person25_bacteria_115.jpeg: Score=192.3961, Prediction=Potential Pneumonia
+person25_bacteria_116.jpeg: Score=242.8750, Prediction=Potential Pneumonia
+person25_bacteria_117.jpeg: Score=219.1732, Prediction=Potential Pneumonia
+person25_bacteria_118.jpeg: Score=189.9123, Prediction=Potential Pneumonia
+person25_bacteria_119.jpeg: Score=185.6451, Prediction=Potential Pneumonia
+person25_bacteria_120.jpeg: Score=219.8555, Prediction=Potential Pneumonia
+person25_bacteria_121.jpeg: Score=187.1488, Prediction=Potential Pneumonia
+person26_bacteria_122.jpeg: Score=213.1095, Prediction=Potential Pneumonia
+person26_bacteria_123.jpeg: Score=202.4015, Prediction=Potential Pneumonia
+person26_bacteria_124.jpeg: Score=208.5242, Prediction=Potential Pneumonia
+person2_bacteria_3.jpeg: Score=184.1484, Prediction=Potential Pneumonia
+person2_bacteria_4.jpeg: Score=171.0527, Prediction=Potential Pneumonia
+person3_bacteria_10.jpeg: Score=212.0189, Prediction=Potential Pneumonia
+person3_bacteria_11.jpeg: Score=201.7599, Prediction=Potential Pneumonia
+person3_bacteria_12.jpeg: Score=188.9413, Prediction=Potential Pneumonia
+person3_bacteria_13.jpeg: Score=180.4075, Prediction=Potential Pneumonia
+person4_bacteria_14.jpeg: Score=166.9690, Prediction=Normal
+person5_bacteria_15.jpeg: Score=165.8572, Prediction=Normal
+person5_bacteria_16.jpeg: Score=196.3844, Prediction=Potential Pneumonia
+person5_bacteria_17.jpeg: Score=185.3363, Prediction=Potential Pneumonia
+person5_bacteria_19.jpeg: Score=207.7438, Prediction=Potential Pneumonia
+person6_bacteria_22.jpeg: Score=186.1715, Prediction=Potential Pneumonia
+person7_bacteria_24.jpeg: Score=218.7194, Prediction=Potential Pneumonia
+person7_bacteria_25.jpeg: Score=178.0994, Prediction=Potential Pneumonia
+person7_bacteria_28.jpeg: Score=183.0489, Prediction=Potential Pneumonia
+person7_bacteria_29.jpeg: Score=202.7346, Prediction=Potential Pneumonia
+person8_bacteria_37.jpeg: Score=151.1711, Prediction=Normal
+person9_bacteria_38.jpeg: Score=167.2507, Prediction=Normal
+person9_bacteria_39.jpeg: Score=175.6628, Prediction=Potential Pneumonia
+person9_bacteria_40.jpeg: Score=181.5467, Prediction=Potential Pneumonia
+person9_bacteria_41.jpeg: Score=160.2461, Prediction=Normal
